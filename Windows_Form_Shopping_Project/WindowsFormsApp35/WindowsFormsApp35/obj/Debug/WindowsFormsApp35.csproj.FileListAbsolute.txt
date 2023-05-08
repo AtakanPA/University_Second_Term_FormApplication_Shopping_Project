@@ -1,0 +1,16 @@
+C:\Users\Ataka\source\repos\WindowsFormsApp35\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe.config
+C:\Users\Ataka\source\repos\WindowsFormsApp35\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe
+C:\Users\Ataka\source\repos\WindowsFormsApp35\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.pdb
+C:\Users\Ataka\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.AssemblyReference.cache
+C:\Users\Ataka\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ataka\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Form1.resources
+C:\Users\Ataka\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Properties.Resources.resources
+C:\Users\Ataka\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.GenerateResource.cache
+C:\Users\Ataka\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.CoreCompileInputs.cache
+C:\Users\Ataka\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.exe
+C:\Users\Ataka\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.pdb
+C:\Users\Ataka\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Form2.resources
+C:\Users\Ataka\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Form3.resources
+C:\Users\Ataka\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Form4.resources
+C:\Users\Ataka\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Form5.resources
+C:\Users\Ataka\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Form6.resources
